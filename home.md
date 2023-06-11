@@ -2,17 +2,18 @@
 
 # Home
 
-Here is some sample **Markdown** content.  
+This website is made for the OpenJar 3D Printable Mason jar project!  Everyone is invited to contribute to this design on GitHub.
 
-Go to [Gallery](topic_gallery.md)
+► Go to [Gallery](topic_gallery.md)
 
-Go to [Tutorials](topic_tutorials.md)
+► Go to [Tutorials](topic_tutorials.md)
 
-Go to [topic-3](topic-3.md)
+► Go to [topic-3](topic-3.md)
+
+---
 
 ## Downloads & More
----
- 
+
 
 * [GrabCAD Publication](https://grabcad.com/library/openjar-1)
 * [Docsify-This.net](https://docsify-this.net/#/) template to build a page like this
