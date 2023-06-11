@@ -2,35 +2,30 @@
 
 [![Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/main/LICENSE)
-<a href="https://discord.gg/zT8eS8ZG">
-    <img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" alt="Docsify Discord Chat" />
-</a>
 
 > This is a multiple page site template for use with [Docsify-This.net](https://docsify-this.net/#/).
 
 ![ Open Jars Rendering](rend_jars_array.png)
-_Figure 1. Rendering of the first Mason Jar Lids successfully printed.  This page was built using Docsify-This.net at [https://paulhibbitts.github.io/test-docsify-this/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-multiple-page-site/main&homepage=home.md](https://paulhibbitts.github.io/test-docsify-this/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-multiple-page-site/main&homepage=home.md)_
+_Figure 1. Rendering of the first Mason Jar Lids successfully printed.  This page was built using Docsify-This.net at [docsify-this.net](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/dmalawey/OpenJar/main&sidebar=true#/))_
 
-How to Use
+Features
 ---
 
-1. Tap **Use this template** in this repository (upper-right green button) and then choose **Create a new repository**
+1. Designs are 3D Printable and parametric.
 
-2. Choose the name for your new repository to contain the files and then tap **Create repository from template**
+2. The designs print without any supports, and with any low-cost 3d printer.
 
-3. View the **home.md** Markdown file in your newly created repository and copy it's URL
+3. Using ABS, your parts can be dishwasher-proof and can be made watertight with an acetone treatment.
 
-4. Go to https://docsify-this.net and paste the copied URL into the **Markdown File URL** field
+4. The thread fits any standard, low cost mason jars
 
-5. Tap the **View as Standalone Page** button to view your Markdown files as a web site
+5. Files are available in STL, STEP, and SOLIDWORKS
 
 You can further customize the appearance of your web pages by tapping on the **Show More Page Options »** link in the Docsfy-This Web Page Builder.
 
-Docsify-This Examples
+Downloads & More
 ---
 
 [Docsify-This Multiple Page Site Template](https://github.com/paulhibbitts/docsify-this-multiple-page-site), displayed by Docsify-This as a:  
-* [Standalone Web Site](https://paulhibbitts.github.io/test-docsify-this/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-multiple-page-site/main&homepage=home.md "Standalone Web Site")  
-* [Standalone Web Site and 'Edit this Page' links](https://paulhibbitts.github.io/test-docsify-this/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-multiple-page-site/main&homepage=home.md&edit-link=https://github.com/paulhibbitts/docsify-this-multiple-page-site/blob/main/home.md "Standalone Web Site and 'Edit this Page' links")  
-* [Standalone Web Site with Docsify Navbar](https://paulhibbitts.github.io/test-docsify-this/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-multiple-page-site/main&homepage=home.md&loadNavbar=_navbar "Standalone Web Site with Docsify Navbar")
-* [Standalone Web Site with Docsify Navbar and 'GitHub Repository' link](https://paulhibbitts.github.io/test-docsify-this/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-multiple-page-site/main&homepage=home.md&homepage=home.md&loadNavbar=_navbar&edit-link=https://github.com/paulhibbitts/docsify-this-multiple-page-site&edit-link-text=GitHub%20Repository "Standalone Web Site with Docsify Navbar and 'View GitHub Repository' link")
+
+* [GrabCAD Publication](https://grabcad.com/library/openjar-1) "Standalone Web Site")  
