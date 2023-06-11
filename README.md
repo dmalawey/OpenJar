@@ -3,7 +3,7 @@
 [![Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/main/LICENSE)
 
-> This is a multiple page site template for use with [Docsify-This.net](https://docsify-this.net/#/).
+> Reduce, Reuse, and Recylce using modern technology.
 
 ![ Open Jars Rendering](rend_jars_array.png)
 _Figure 1. Rendering of the first Mason Jar Lids successfully printed.  This page was built using Docsify-This.net at [docsify-this.net](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/dmalawey/OpenJar/main&sidebar=true#/))_
@@ -25,7 +25,7 @@ You can further customize the appearance of your web pages by tapping on the **S
 
 Downloads & More
 ---
+ 
 
-[Docsify-This Multiple Page Site Template](https://github.com/paulhibbitts/docsify-this-multiple-page-site), displayed by Docsify-This as a:  
-
-* [GrabCAD Publication](https://grabcad.com/library/openjar-1) "Standalone Web Site")  
+* [GrabCAD Publication](https://grabcad.com/library/openjar-1)
+* [Docsify-This.net](https://docsify-this.net/#/) template to build a page like this
