@@ -1,4 +1,4 @@
-![](/images/img_banner_gallery_trim] ':class=header-image-full-width')
+![](/images/img_banner_gallery_trim.jpg ':class=header-image-full-width')
 
 [←Home](home.md)
 
