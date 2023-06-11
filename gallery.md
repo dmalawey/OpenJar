@@ -2,6 +2,6 @@
 
 [←Home](home.md)
 
-# Topic 1
+# Gallery
 
-Here is some more sample **Markdown** content.
+The gallery.
