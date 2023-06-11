@@ -1,11 +1,11 @@
-![](images/mountain-cropped.jpg ':class=header-image-full-width')
+![](/images/img_banner_gallery_trim.jpg ':class=header-image-full-width')
 
 # Home
 
 Here is some sample **Markdown** content.  
 
-Go to [topic-1](topic-1.md)
+Go to [Gallery](topic_gallery.md)
 
-Go to [topic-2](topic-2.md)
+Go to [Tutorials](topic_tutorials.md)
 
 Go to [topic-3](topic-3.md)
