@@ -32,3 +32,14 @@ Downloads & More
 * [Docsify output](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/dmalawey/OpenJar/main&sidebar=true#/) of this single-page site
 * [Docsify output](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/dmalawey/OpenJar/main&homepage=home.md) of the multi-page website
 * [OpenJar on Github](https://github.com/dmalawey/OpenJar)
+
+Tutorials
+---
+
+These tutorials are related (or can be used) with the OpenJar project.
+
+Learn to [Edit Parametric Parts in Solidworks](https://grabcad.com/tutorials/how-to-edit-parametric-parts-solidworks)
+
+Learn fundamentals of [Design for 3D Printing - Part 1](https://youtu.be/HYnm2MD0Nks)
+
+Learn [Design for 3D Printing - Part 2](https://youtu.be/LMyhFwJscI0)
