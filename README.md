@@ -11,23 +11,22 @@ _Figure 1. Rendering of the first Mason Jar Lids successfully printed.  This pag
 Features
 ---
 
-1. Designs are 3D Printable and parametric.
+1. Designs are **3D Printable** and **parametric**.
 
-2. The designs print without any supports, and with any low-cost 3d printer.
+2. The designs print **without any supports**, and with any low-cost 3D printer.
 
-3. Using ABS, your parts can be dishwasher-proof and can be made watertight with an acetone treatment.
+3. Using ABS, your parts can be **dishwasher-safe** and can be made **watertight** with an acetone vapor treatment.
 
 4. The thread fits any standard, low cost mason jars
 
 5. Files are available in STL, STEP, and SOLIDWORKS
 
-You can further customize the appearance of your web pages by tapping on the **Show More Page Options »** link in the Docsfy-This Web Page Builder.
 
 Downloads & More
 ---
  
 
-* [GrabCAD Publication](https://grabcad.com/library/openjar-1)
+* [GrabCAD Publication](https://grabcad.com/library/openjar-1) ◄ All the CAD files here!
 * [Docsify-This.net](https://docsify-this.net/#/) template to build a page like this
 * [Docsify output](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/dmalawey/OpenJar/main&sidebar=true#/) of this single-page site
 * [Docsify output](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/dmalawey/OpenJar/main&homepage=home.md) of the multi-page website
@@ -38,8 +37,11 @@ Tutorials
 
 These tutorials are related (or can be used) with the OpenJar project.
 
-Learn to [Edit Parametric Parts in Solidworks](https://grabcad.com/tutorials/how-to-edit-parametric-parts-solidworks)
+1. Learn to [Edit Parametric Parts in Solidworks](https://grabcad.com/tutorials/how-to-edit-parametric-parts-solidworks)
+2. Learn [Design for 3D Printing - Part 1](https://youtu.be/HYnm2MD0Nks) for engineers
+3. Learn [Design for 3D Printing - Part 2](https://youtu.be/LMyhFwJscI0) using fasteners
 
-Learn fundamentals of [Design for 3D Printing - Part 1](https://youtu.be/HYnm2MD0Nks)
+Details
+---
 
-Learn [Design for 3D Printing - Part 2](https://youtu.be/LMyhFwJscI0)
+?show-page-options=true
