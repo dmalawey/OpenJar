@@ -82,24 +82,27 @@ _Figure - foamy dispenser_
 
 You can store foods if you use a rubber seal. (actually, it's silicone)  I used [this one from Amazon](https://www.amazon.com/gp/product/B07TY28LZV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 ![silicone gasket](https://i.imgur.com/4BCPOOt.jpg)
+
 _Figure - silicone gasket_
 
 ## Jar Sizes
 
-```
+
 Any brand of jar will work, but the mouth size should be standard.
-```
+
 ![jar sizes 4oz, 16oz](https://i.imgur.com/tEzuCdO.jpg)
+
 _Figure of Jar sizes 1/2 cup and 2 cup_
 
 
 ## Spray Nozzle
 
-```
+
 The spray nozzle setup is a two-part design.  To get the dip tube at the bottom of your jar, thread on the first piece and then cut the remaining length to 130mm.
-```
-![dip tube length](https://i.imgur.com/hIGKVmH.jpeg))
-_Figure of the sprayer assembly and dip tube_
+
+![dip tube length](https://i.imgur.com/hIGKVmH.jpeg)
+
+_Figure - sprayer assembly and dip tube_
 
 ---
 # Downloads & More
@@ -111,4 +114,4 @@ Project Publications
 * [Github](https://github.com/dmalawey/OpenJar) OpenJar repository
 
 Learn to build a page like this
-* [Docsify-This.net](https://docsify-this.net/#/) template to build a page like this
+* [Docsify-This.net](https://docsify-this.net/#/) template to build a page like this.
