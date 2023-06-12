@@ -84,13 +84,22 @@ You can store foods if you use a rubber seal. (actually, it's silicone)  I used 
 ![silicone gasket](https://i.imgur.com/4BCPOOt.jpg)
 _Figure - silicone gasket_
 
-## Jars
+## Jar Sizes
 
 ```
 Any brand of jar will work, but the mouth size should be standard.
 ```
 ![jar sizes 4oz, 16oz](https://i.imgur.com/tEzuCdO.jpg)
 _Figure of Jar sizes 1/2 cup and 2 cup_
+
+
+## Spray Nozzle
+
+```
+The spray nozzle setup is a two-part design.  To get the dip tube at the bottom of your jar, thread on the first piece and then cut the remaining length to 130mm.
+```
+![dip tube length](https://i.imgur.com/hIGKVmH.jpeg))
+_Figure of the sprayer assembly and dip tube_
 
 ---
 # Downloads & More
