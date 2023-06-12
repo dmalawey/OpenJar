@@ -44,7 +44,7 @@ These tutorials are related (or can be used) with the OpenJar project.
 Details
 ---
 
-### Adapter Threads
+## Adapter Threads
 
 These parts have two pieces.  The adapter lid and the thread component.   Threee options are pre-made.
 
@@ -53,3 +53,8 @@ The first adapter thread is for a common spray bottle such as windex.  Use the *
 
 The next thread is the foamy (my favorite).  It uses a larger adapter and a larger thread. Use **Lid_foamy.stl** and **thread_foamy.stl** and this is suited for one of the foaming soap pumps from dollar tree.
 ![foamy dispenser](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/0e301b40c55337cb42571cf4b019824a/large.jpg)
+
+## Rubber Seal
+
+You can store foods if you use a rubber seal. (actually, it's silicone)  I used [this one from Amazon](https://www.amazon.com/gp/product/B07TY28LZV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+![silicone gasket](https://i.imgur.com/4BCPOOt.jpg)
