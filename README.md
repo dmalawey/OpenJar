@@ -44,4 +44,9 @@ These tutorials are related (or can be used) with the OpenJar project.
 Details
 ---
 
-?show-page-options=true
+### Adapter Threads
+
+These parts have two pieces.  The adapter lid and the thread component.   Threee options are pre-made.
+
+The first adapter thread is for a common spray bottle such as windex.  Use the **lid_adapt.stl** and **thread_spray.stl**
+![windex spray assembly](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/5d5ee6d4e2c91ff5ddf7f72ecf03dda1/large.jpg)
