@@ -1,6 +1,5 @@
 # OpenJar: An Open-Source Hardware Design
 
-
 [![Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/main/LICENSE)
 
@@ -34,18 +33,6 @@ _Figure 1. Rendering of the first Mason Jar Lids successfully printed._
 2. Free STL files for printing, SOLIDWORKS for design, and STEP for importing to other softwares.
 
 ---
-# Downloads & More
----
- 
-Project Publications
-* [GrabCAD](https://grabcad.com/library/openjar-1) ◄ All the CAD files here!
-* [Webpage](https://qr.page/g/2VtU8nxHXhN) this page, made with Docsify
-* [Github](https://github.com/dmalawey/OpenJar) OpenJar repository
-
-Learn to build a page like this
-* [Docsify-This.net](https://docsify-this.net/#/) template to build a page like this
-
----
 # Design Tutorials
 ---
 
@@ -59,25 +46,35 @@ These tutorials are related to the OpenJar project.
 ---
 # Details
 ---
-There are many 3D printable jar lids online, but this project emphasizes open-source hardware.  I think that open hardware should become more like open source software: users can make modifications easily and contribute easily. That means, we should make our models parametric, and make finer documentation.  If the documentation successfully explains the model and the assembly, then we gain all of the benefits that open software gives and we can change the world.  Lastly, we must make our designs fully digital.  If I don't offer the CAD model of the store-bought jar, then contributors must reworkd the assembly, breaking the open-source ecosystem. I have high hopes that hardware developers can reach a new paradigm.
 
-Keep these in mind:
+```
+This project focuses on improving open-source hardware!
+```
+
+There are many 3D printable options online, but this project emphasizes open-source hardware.  I hope open hardware becomes like open source software: users can make modifications easily and contribute easily.
+
+Therefore, we should make parametric models and finer documentation.  If documentation successfully explains the model and assembly, then we gain all of the benefits of open software. Lastly, we must make our designs fully digital. If I don't offer the CAD model of the store-bought jar, then contributors must reworkd the assembly ► this breaks the open-source ecosystem. Let's empower hardware designers! 
+
+Cheers to hardware developers reaching a new paradigm. ☺
+
+```
 | Modularity | Parametric models | Documentation | Digital Designs | 
+```
 
 ## Adapter Threads <br>
 
-```
-These parts have two pieces.  The adapter lid and the thread component.   Three options for threads are pre-made.
-```
+
+>Adapter threads have two pieces: adapter lid and the thread component.  Three options for threads are pre-made (with STL files).  Using two parts gives us no-support printing and modularity.  Easily bond the parts with superglue.
+
 
 The first adapter thread is for a common spray bottle such as windex.  Use the **lid_adapt.stl** and **thread_spray.stl**
-![windex spray assembly](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/5d5ee6d4e2c91ff5ddf7f72ecf03dda1/large.jpg)
 
+![windex spray assembly](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/5d5ee6d4e2c91ff5ddf7f72ecf03dda1/large.jpg)
 _Figure - spray bottle assembly_
 
 The next thread is the foamy (my favorite).  It uses a larger adapter and a larger thread. Use **Lid_foamy.stl** and **thread_foamy.stl** and this is suited for one of the foaming soap pumps from dollar tree.
-![foamy dispenser](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/0e301b40c55337cb42571cf4b019824a/large.jpg)
 
+![foamy dispenser](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/0e301b40c55337cb42571cf4b019824a/large.jpg)
 _Figure - foamy dispenser_
 
 
@@ -94,3 +91,15 @@ Any brand of jar will work, but the mouth size should be standard.
 ```
 ![jar sizes 4oz, 16oz](https://i.imgur.com/tEzuCdO.jpg)
 _Figure of Jar sizes 1/2 cup and 2 cup_
+
+---
+# Downloads & More
+---
+ 
+Project Publications
+* [GrabCAD](https://grabcad.com/library/openjar-1) ◄ All the CAD files here!
+* [Webpage](https://qr.page/g/2VtU8nxHXhN) this page, made with Docsify
+* [Github](https://github.com/dmalawey/OpenJar) OpenJar repository
+
+Learn to build a page like this
+* [Docsify-This.net](https://docsify-this.net/#/) template to build a page like this
