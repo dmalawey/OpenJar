@@ -8,7 +8,7 @@
 ![ Open Jars Rendering](rend_jars_array.png)
 _Figure 1. Rendering of the first Mason Jar Lids successfully printed.  This page was built using Docsify-This.net at [docsify-this.net](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/dmalawey/OpenJar/main&sidebar=true#/))_
 
-Features
+# Features
 ---
 
 1. Designs are **3D Printable** and **parametric**.
@@ -22,7 +22,7 @@ Features
 5. Files are available in STL, STEP, and SOLIDWORKS
 
 
-Downloads & More
+# Downloads & More
 ---
  
 
@@ -32,7 +32,7 @@ Downloads & More
 * [Docsify output](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/dmalawey/OpenJar/main&homepage=home.md) of the multi-page website
 * [OpenJar on Github](https://github.com/dmalawey/OpenJar)
 
-Tutorials
+# Tutorials
 ---
 
 These tutorials are related (or can be used) with the OpenJar project.
@@ -41,7 +41,7 @@ These tutorials are related (or can be used) with the OpenJar project.
 2. Learn [Design for 3D Printing - Part 1](https://youtu.be/HYnm2MD0Nks) for engineers
 3. Learn [Design for 3D Printing - Part 2](https://youtu.be/LMyhFwJscI0) using fasteners
 
-Details
+# Details
 ---
 
 ## Adapter Threads
