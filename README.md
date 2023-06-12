@@ -1,5 +1,6 @@
 # OpenJar: An Open-Source Hardware Design
 
+
 [![Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/main/LICENSE)
 
@@ -8,6 +9,7 @@
 ![ Open Jars Rendering](rend_jars_array.png)
 _Figure 1. Rendering of the first Mason Jar Lids successfully printed._
 
+---
 # Features
 ---
 
@@ -21,7 +23,7 @@ _Figure 1. Rendering of the first Mason Jar Lids successfully printed._
 
 5. Files are available in STL, STEP, and SOLIDWORKS
 
-
+---
 # Downloads & More
 ---
  
@@ -33,8 +35,10 @@ Project Publications
 Learn to build a page like this
 * [Docsify-This.net](https://docsify-this.net/#/) template to build a page like this
 
+---
 # Design Tutorials
 ---
+
 ```
 These tutorials are related to the OpenJar project.
 ```
@@ -42,12 +46,18 @@ These tutorials are related to the OpenJar project.
 2. Learn [Design for 3D Printing - Part 1](https://youtu.be/HYnm2MD0Nks) for engineers, Youtube
 3. Learn [Design for 3D Printing - Part 2](https://youtu.be/LMyhFwJscI0) using fasteners, Youtube
 
+---
 # Details
+---
+There are many 3D printable jar lids online, but this project emphasizes open-source hardware.  I think that open hardware should become more like open source software: users can make modifications easily and contribute easily. That means, we should make our models parametric, and make finer documentation.  If the documentation successfully explains the model and the assembly, then we gain all of the benefits that open software gives and we can change the world.  Lastly, we must make our designs fully digital.  If I don't offer the CAD model of the store-bought jar, then contributors must reworkd the assembly, breaking the open-source ecosystem. I have high hopes that hardware developers can reach a new paradigm.
 
-## Adapter Threads
+Keep these in mind:
+| Modularity | Parametric models | Documentation | Digital Designs | 
+
+## Adapter Threads <br>
 
 ```
-These parts have two pieces.  The adapter lid and the thread component.   Threee options are pre-made.
+These parts have two pieces.  The adapter lid and the thread component.   Three options for threads are pre-made.
 ```
 
 The first adapter thread is for a common spray bottle such as windex.  Use the **lid_adapt.stl** and **thread_spray.stl**
@@ -60,7 +70,8 @@ The next thread is the foamy (my favorite).  It uses a larger adapter and a larg
 
 _Figure - foamy dispenser_
 
-## Rubber Seal
+
+## Rubber Seal <br>
 
 You can store foods if you use a rubber seal. (actually, it's silicone)  I used [this one from Amazon](https://www.amazon.com/gp/product/B07TY28LZV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 ![silicone gasket](https://i.imgur.com/4BCPOOt.jpg)
