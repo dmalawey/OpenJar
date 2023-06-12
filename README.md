@@ -50,3 +50,6 @@ These parts have two pieces.  The adapter lid and the thread component.   Threee
 
 The first adapter thread is for a common spray bottle such as windex.  Use the **lid_adapt.stl** and **thread_spray.stl**
 ![windex spray assembly](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/5d5ee6d4e2c91ff5ddf7f72ecf03dda1/large.jpg)
+
+The next thread is the foamy (my favorite).  It uses a larger adapter and a larger thread. Use **Lid_foamy.stl** and **thread_foamy.stl** and this is suited for one of the foaming soap pumps from dollar tree.
+![foamy dispenser](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/0e301b40c55337cb42571cf4b019824a/original.jpg)
