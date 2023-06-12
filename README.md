@@ -13,15 +13,25 @@ _Figure 1. Rendering of the first Mason Jar Lids successfully printed._
 # Features
 ---
 
-1. Designs are **3D Printable** and **parametric**.
+> For Makers:
 
-2. The designs print **without any supports**, and with any low-cost 3D printer.
+1. Uses standard, cheap mason jars.
 
-3. Using ABS, your parts can be **dishwasher-safe** and can be made **watertight** with an acetone vapor treatment.
+2. **Watertight** using a rubber seal, or **Airtight** by postprocessing.
 
-4. The thread fits any standard, low cost mason jars
+3. **Support-free** printing, and works with cheap desktop 3D printers.
 
-5. Files are available in STL, STEP, and SOLIDWORKS
+> For Users:
+
+1. **Food-safe** results if you use ABS plastic.
+
+2. **Dishwasher-safe** if you use ABS plastic.
+
+> For Designers:
+
+1. **3D Printable** and **parametric** designs.
+
+2. Free STL files for printing, SOLIDWORKS for design, and STEP for importing to other softwares.
 
 ---
 # Downloads & More
