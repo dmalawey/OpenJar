@@ -6,7 +6,7 @@
 > Reduce, Reuse, and Recylce using modern technology.
 
 ![ Open Jars Rendering](rend_jars_array.png)
-_Figure 1. Rendering of the first Mason Jar Lids successfully printed.  This page was built using Docsify-This.net at [docsify-this.net](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/dmalawey/OpenJar/main&sidebar=true#/))_
+_Figure 1. Rendering of the first Mason Jar Lids successfully printed._
 
 # Features
 ---
@@ -42,7 +42,6 @@ These tutorials are related (or can be used) with the OpenJar project.
 3. Learn [Design for 3D Printing - Part 2](https://youtu.be/LMyhFwJscI0) using fasteners
 
 # Details
----
 
 ## Adapter Threads
 
@@ -58,3 +57,8 @@ The next thread is the foamy (my favorite).  It uses a larger adapter and a larg
 
 You can store foods if you use a rubber seal. (actually, it's silicone)  I used [this one from Amazon](https://www.amazon.com/gp/product/B07TY28LZV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 ![silicone gasket](https://i.imgur.com/4BCPOOt.jpg)
+
+## Jars
+
+Any brand of jar will work, but the mouth size should be standard.
+![jar sizes 4oz, 16oz](https://i.imgur.com/tEzuCdO.jpg)
