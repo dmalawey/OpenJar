@@ -2,8 +2,11 @@
 
 [![Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/main/LICENSE)
+|  [► Github](https://github.com/dmalawey/OpenJar "project github")   |   [► GrabCAD](https://grabcad.com/library/openjar-1 "CAD Models")   |
 
 > Reduce, Reuse, and Recylce using modern technology.
+
+
 
 ![ Open Jars Rendering](rend_jars_array.png)
 _Figure 1. Rendering of the first Mason Jar Lids successfully printed._
