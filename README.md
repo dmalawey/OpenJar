@@ -105,15 +105,18 @@ The spray nozzle setup is a two-part design.  To get the dip tube at the bottom 
 _Figure - sprayer assembly and dip tube_
 
 ---
+
 # Downloads & More
+
 ---
 
-![Jar CAD Models](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/f4bd3216fb07e0610818bb71d688dfc8/large.png)
+
+![Jar CAD Models image](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/f4bd3216fb07e0610818bb71d688dfc8/large.png "cad models image")
 
 Project Publications
-* [GrabCAD](https://grabcad.com/library/openjar-1) ◄ All the CAD files here!
-* [Webpage](https://qr.page/g/2VtU8nxHXhN) this page, made with Docsify
-* [Github](https://github.com/dmalawey/OpenJar) OpenJar repository
+> * [GrabCAD](https://grabcad.com/library/openjar-1) ◄ All the CAD files here!
+> * [Webpage](https://qr.page/g/2VtU8nxHXhN) this page, made with Docsify
+> * [Github](https://github.com/dmalawey/OpenJar) OpenJar repository
 
-Learn to build a page like this
+:information_source: Learn to build documentation like this.
 * [Docsify-This.net](https://docsify-this.net/#/) template to build a page like this.
