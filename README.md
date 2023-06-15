@@ -2,6 +2,7 @@
 
 [![Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/main/LICENSE)
+
 |  [► Github](https://github.com/dmalawey/OpenJar "project github")   |   [► GrabCAD](https://grabcad.com/library/openjar-1 "CAD Models")   |
 
 > Reduce, Reuse, and Recylce using modern technology.
@@ -9,6 +10,7 @@
 
 
 ![ Open Jars Rendering](rend_jars_array.png ':class=image-50')
+
 _Figure 1. Rendering of the first Mason Jar Lids successfully printed._
 
 ---
@@ -73,11 +75,13 @@ Cheers to hardware developers reaching a new paradigm. ☺
 The first adapter thread is for a common spray bottle such as windex.  Use the **lid_adapt.stl** and **thread_spray.stl**
 
 ![windex spray assembly](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/5d5ee6d4e2c91ff5ddf7f72ecf03dda1/large.jpg)
+
 _Figure - spray bottle assembly_
 
 The next thread is the foamy (my favorite).  It uses a larger adapter and a larger thread. Use **Lid_foamy.stl** and **thread_foamy.stl** and this is suited for one of the foaming soap pumps from dollar tree.
 
 ![foamy dispenser](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/0e301b40c55337cb42571cf4b019824a/large.jpg)
+
 _Figure - foamy dispenser_
 
 
