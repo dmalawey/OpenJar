@@ -3,7 +3,9 @@
 [![Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/main/LICENSE)
 
-|  [► Github](https://github.com/dmalawey/OpenJar "project github")   |   [► GrabCAD](https://grabcad.com/library/openjar-1 "CAD Models")   |
+| [Github Repo](https://github.com/dmalawey/OpenJar ':class=button') 
+| [Website](https://qr.page/g/2VtU8nxHXhN ':class=button')
+| [GrabCAD](https://grabcad.com/library/openjar-1 ':class=button') |
 
 > Reduce, Reuse, and Recylce using modern technology.
 
