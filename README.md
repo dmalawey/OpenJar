@@ -11,7 +11,7 @@
 
 
 
-![ Open Jars Rendering](rend_jars_array.png ':class=image-50')
+![ Open Jars Rendering](rend_jars_array.png ':class=image-25')
 
 _Figure 1. Rendering of the first Mason Jar Lids successfully printed._
 
@@ -76,13 +76,13 @@ Cheers to hardware developers reaching a new paradigm. ☺
 
 The first adapter thread is for a common spray bottle such as windex.  Use the **lid_adapt.stl** and **thread_spray.stl**
 
-![windex spray assembly](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/5d5ee6d4e2c91ff5ddf7f72ecf03dda1/large.jpg ':class=image-40')
+![windex spray assembly](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/5d5ee6d4e2c91ff5ddf7f72ecf03dda1/large.jpg ':class=image-25')
 
 _Figure - spray bottle assembly_
 
 The next thread is the foamy (my favorite).  It uses a larger adapter and a larger thread. Use **Lid_foamy.stl** and **thread_foamy.stl** and this is suited for one of the foaming soap pumps from dollar tree.
 
-![foamy dispenser](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/0e301b40c55337cb42571cf4b019824a/large.jpg ':class=image-40')
+![foamy dispenser](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/0e301b40c55337cb42571cf4b019824a/large.jpg ':class=image-25')
 
 _Figure - foamy dispenser_
 
@@ -90,7 +90,7 @@ _Figure - foamy dispenser_
 ## Rubber Seal <br>
 
 You can store foods if you use a rubber seal. (actually, it's silicone)  I used [this one from Amazon](https://www.amazon.com/gp/product/B07TY28LZV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-![silicone gasket](https://i.imgur.com/4BCPOOt.jpg ':class=image-40')
+![silicone gasket](https://i.imgur.com/4BCPOOt.jpg ':class=image-25')
 
 _Figure - silicone gasket_
 
@@ -99,7 +99,7 @@ _Figure - silicone gasket_
 
 Any brand of jar will work, but the mouth size should be standard.
 
-![jar sizes 4oz, 16oz](https://i.imgur.com/tEzuCdO.jpg ':class=image-40')
+![jar sizes 4oz, 16oz](https://i.imgur.com/tEzuCdO.jpg ':class=image-25')
 
 _Figure of Jar sizes 1/2 cup and 2 cup_
 
@@ -109,7 +109,7 @@ _Figure of Jar sizes 1/2 cup and 2 cup_
 
 The spray nozzle setup is a two-part design.  To get the dip tube at the bottom of your jar, thread on the first piece and then cut the remaining length to 130mm.
 
-![dip tube length](https://i.imgur.com/hIGKVmH.jpeg ':class=image-40')
+![dip tube length](https://i.imgur.com/hIGKVmH.jpeg ':class=image-25')
 
 _Figure - sprayer assembly and dip tube_
 
