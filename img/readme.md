@@ -1,1 +1,1 @@
-## A director for images
+## A directory for images
