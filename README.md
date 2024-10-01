@@ -109,8 +109,7 @@ _Figure of Jar sizes 1/2 cup and 2 cup_
 
 The spray nozzle setup is a two-part design.  To get the dip tube at the bottom of your jar, thread on the first piece and then cut the remaining length to 130mm.
 
-![dip tube length](https://i.imgur.com/hIGKVmH.jpeg ':class=image-25')
-
+![dip tube length](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/1789e0103e3ff3923c5b252176b52948/original.jpg)
 _Figure - sprayer assembly and dip tube_
 
 ---
