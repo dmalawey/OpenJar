@@ -90,7 +90,7 @@ _Figure - foamy dispenser_
 ## Rubber Seal <br>
 
 You can store foods if you use a rubber seal. (actually, it's silicone)  I used [this one from Amazon](https://www.amazon.com/gp/product/B07TY28LZV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-![silicone gasket](https://i.imgur.com/4BCPOOt.jpg ':class=image-25')
+![silicone gasket](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/4ef7b5d7b7dfd6a7d94dbe8c128466e2/large.jpg)
 
 _Figure - silicone gasket_
 
