@@ -11,7 +11,7 @@
 
 
 
-![Design render](/img/rend_jarsArray.jpg':class=image-25')
+![Design render](img/rend_jarsArray.jpg ':class=image-25')
 
 _Figure 1. Rendering of the first Mason Jar Lids successfully printed._
 
@@ -88,7 +88,7 @@ _Figure - foamy dispenser_
 
 Then, an ordinary pump dispenser.  This pump came from a Head & Shoulders or Equate large shampoo bottle.  You can find metered dispensers of this style at your local farming store, intended for dosing supplements into the soil.
 
-![pump dispenser](/img/img_pumpJar.jpg ':class=image-25')
+![pump dispenser](img/img_pumpJar.jpg ':class=image-25')
 
 _Figure - pump jar_
 
@@ -105,7 +105,7 @@ _Figure - silicone gasket_
 
 Any brand of jar will work, but the mouth size should be standard.
 
-![jar sizes](/img/img_jarSizes.jpg ':class=image-25')
+![jar sizes](img/img_jarSizes.jpg ':class=image-25')
 
 _Figure of Jar sizes 1/2 cup and 2 cup_
 
