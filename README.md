@@ -99,7 +99,7 @@ _Figure - silicone gasket_
 
 Any brand of jar will work, but the mouth size should be standard.
 
-![jar sizes 4oz, 16oz](https://i.imgur.com/tEzuCdO.jpg ':class=image-25')
+![jar sizes](/img/img_jarSizes.jpg ':class=image-25')
 
 _Figure of Jar sizes 1/2 cup and 2 cup_
 
