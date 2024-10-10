@@ -86,6 +86,12 @@ The next thread is the foamy (my favorite).  It uses a larger adapter and a larg
 
 _Figure - foamy dispenser_
 
+Then, an ordinary pump dispenser.  This pump came from a Head & Shoulders or Equate large shampoo bottle.  You can find metered dispensers of this style at your local farming store, intended for dosing supplements into the soil.
+
+![pump dispenser](/img/img_pumpJar.jpg ':class=image-25')
+
+_Figure - pump jar_
+
 
 ## Rubber Seal <br>
 
