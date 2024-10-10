@@ -1,0 +1,3 @@
+- [Home](home)
+- [Gallery](gallery)
+- [Downloads](downloads)
