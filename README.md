@@ -11,7 +11,7 @@
 
 
 
-![Design render](/img/rend_jars_array.png ':class=image-25')
+![Design render](img/rend_jars_array.jpg':class=image-25')
 
 _Figure 1. Rendering of the first Mason Jar Lids successfully printed._
 
