@@ -1,6 +1,7 @@
 # OpenJar: An Open-Source Hardware Design
 
 > Reduce, Reuse, and Recylce using modern technology.
+> github.com/dmalawey/OpenJar
 
 ![Design render](img/rend_jarsArray.jpg ':class=image-25')
 
