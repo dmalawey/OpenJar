@@ -1,33 +1,19 @@
 ![myimage](/img/img_banner_gallery_trim.jpg ':class=header-image-full-width')
 
-# Home
-
-This website is made for the OpenJar 3D Printable Mason jar project!  Everyone is invited to contribute to this design on GitHub.
-
-► Go to [Gallery](gallery.md)
-
-► Go to [Tutorials](tutorials.md)
-
-► Go to [Downloads](topic3.md)
-
----
-
 # OpenJar: An Open-Source Hardware Design
 
-[![Docsify](https://img.shields.io/npm/v/docsify?label=docsify)](https://docsify.js.org/)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/main/LICENSE)
-
-| [Github Repo](https://github.com/dmalawey/OpenJar ':class=button') 
-| [Website](https://qr.page/g/2VtU8nxHXhN ':class=button')
-| [GrabCAD](https://grabcad.com/library/openjar-1 ':class=button') |
-
 > Reduce, Reuse, and Recylce using modern technology.
-
-
 
 ![Design render](img/rend_jarsArray.jpg ':class=image-25')
 
 _Figure 1. Rendering of the first Mason Jar Lids successfully printed._
+
+## Related Projects:
+* [openJar](https://bit.ly/openjarproject)
+* [openBox](https://bit.ly/openboxproject)
+* [openSpin](https://qr.page/g/2VtU8nxHXhN)
+* [openArm](https://qr.page/g/2wY5JrxcciD)
+* [mechatronics resources](https://qr.page/g/4ZptmdWxn5y)
 
 ---
 # Features
