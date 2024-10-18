@@ -1,5 +1,3 @@
-![myimage](/img/img_banner_gallery_trim.jpg ':class=header-image-full-width')
-
 # OpenJar: An Open-Source Hardware Design
 
 > Reduce, Reuse, and Recylce using modern technology.
