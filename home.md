@@ -8,12 +8,15 @@
 
 _Figure 1. Rendering of the first Mason Jar Lids successfully printed._
 
-## Related Projects:
-* [openJar](https://bit.ly/openjarproject)
-* [openBox](https://bit.ly/openboxproject)
-* [openSpin](https://qr.page/g/2VtU8nxHXhN)
-* [openArm](https://qr.page/g/2wY5JrxcciD)
-* [mechatronics resources](https://qr.page/g/4ZptmdWxn5y)
+## More Open Projects
+More Open Source designs initiated by DM & SCUTTLE team:
+* [SCUTTLE Nigeria](https://bit.ly/scuttleNigeria1)
+* [Mechatronics Resources](https://bit.ly/openmechatronics)
+* [OpenArm](https://bit.ly/openarm)
+* [OpenJar](https://bit.ly/openjarproject_v1)
+* [OpenBox](https://bit.ly/openboxproject)
+* [OpenSpin](https:/bit.ly/openspinproject)
+* [OpenAir](https://bit.ly/openairproject)
 
 ---
 # Features
