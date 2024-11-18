@@ -27,14 +27,7 @@ Access [Model on GrabCAD](https://grabcad.com/library/cap-43)
 
 # Raw Links
 
-This webpage is really just a handful of documents in a github repository.
 
->We render the page by inputting selections into a docsify-this website builder, so here is the raw link which describes the selections.  If we break the page, here's the latest link which was working!
->
-> https://docsify-this.net/?basePath=https://raw.githubusercontent.com/dmalawey/OpenJar/refs/heads/main&homepage=home.md&edit-link=https://github.com/dmalawey/OpenJar/refs/heads/blob/main&sidebar=true&browser-tab-title=OpenJar&loadFavicon=favicon.png&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&name=OpenJar%20Webpage&dark-mode=true#/
->
-
-# Documentation:
 
 Learn to build documentation like this web page!  Huge thanks to Paul Hibbits who built the docsify-this infrastructure!
 
