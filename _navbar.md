@@ -1,4 +1,2 @@
 * [Home](home)
-* [Gallery](gallery)
-* [Tutorials](tutorials)
-* [Designs](designs)
+* [Github](github.com/dmalawey/OpenJar)
