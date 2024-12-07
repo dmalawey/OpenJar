@@ -1,4 +1,4 @@
-# OpenJar: An Open-Source Hardware Design
+#An Open-Source Hardware Design
 
 > **Reduce, Reuse, Recycle** with modern technology  
 > 
