@@ -2,7 +2,7 @@
 
 Explore OpenJar's 3D CAD models, repositories, and resources for makers, designers, and developers.
 
-![Jar CAD Models](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/f4bd3216fb07e0610818bb71d688dfc8/large.png "CAD Models Image" ':class=image-50 center')  
+![Jar CAD Models image](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/f4bd3216fb07e0610818bb71d688dfc8/large.png "cad models image")
 
 ---
 
@@ -31,6 +31,7 @@ This **Cap Design** is optimized for bottles and incorporates essential features
 Access the model here: [**Model on GrabCAD**](https://grabcad.com/library/cap-43)  
 
 ---
+
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,5 +1,5 @@
 
-##1Open-Source Hardware Design
+##Open-Source Hardware Design
 
 >    ♻️ **Reduce, Reuse, Recycle** 🌱 with modern technology 💚
 > 
