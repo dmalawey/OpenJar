@@ -1,5 +1,5 @@
 
-##Open-Source Hardware Design
+##1Open-Source Hardware Design
 
 >    ♻️ **Reduce, Reuse, Recycle** 🌱 with modern technology 💚
 > 
@@ -40,9 +40,14 @@ We believe in making open hardware as accessible and collaborative as open-sourc
 - [SCUTTLE Nigeria](https://bit.ly/scuttleNigeria1)  
 - [Mechatronics Resources](https://bit.ly/openmechatronics)  
 
+(&nbsp;)
+(&nbsp;)
+(&nbsp;)
+(&nbsp;)
+(&nbsp;)
 
 
- #**For Makers:**
+**For Makers:**
 1. **Standardized** – Works with standard mason jars.  
 2. **Functional** – **Watertight** or **Airtight** with post-processing.  
 3. **Efficient** – Prints **support-free** on basic desktop 3D printers.
