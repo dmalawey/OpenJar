@@ -1,8 +1,15 @@
-#An Open-Source Hardware Design
+##An Open-Source Hardware Design
 
-> **Reduce, Reuse, Recycle** with modern technology  
+>    ♻️ **Reduce, Reuse, Recycle** 🌱 with modern technology 💚
+
 > 
 > Explore the project on [GitHub](https://github.com/dmalawey/OpenJar)
+
+
+
+
+
+
 
 **Our Mission** 🛠️  
 We believe in making open hardware as accessible and collaborative as open-source software. Our mission is to:  
@@ -11,10 +18,15 @@ We believe in making open hardware as accessible and collaborative as open-sourc
 - Build a robust **open-source ecosystem** where contributions are simple and impactful.  
 
 
-## 🌟 **Discover More Open Projects**
-Explore other open-source initiatives by DM & SCUTTLE team:  
-- [SCUTTLE Nigeria](https://bit.ly/scuttleNigeria1)  
-- [Mechatronics Resources](https://bit.ly/openmechatronics)  
+
+
+
+
+
+
+##  **More Open Projects** 🌟
+
+
 - [OpenArm](https://bit.ly/openarm)  
 - [OpenJar](https://bit.ly/openjarproject_v1)  
 [![OpenJar](img/OpenJar.png)](https://bit.ly/openjarproject_v1)
@@ -23,6 +35,10 @@ Explore other open-source initiatives by DM & SCUTTLE team:
 - [OpenAir](https://bit.ly/openairproject)  
 - [OpenLab](https://bit.ly/openlabproject)
 
+
+Explore other open-source initiatives by DM & SCUTTLE team:  
+- [SCUTTLE Nigeria](https://bit.ly/scuttleNigeria1)  
+- [Mechatronics Resources](https://bit.ly/openmechatronics)  
 ---
 
 
