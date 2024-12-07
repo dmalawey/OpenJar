@@ -1,7 +1,7 @@
-##An Open-Source Hardware Design
+
+##Open-Source Hardware Design
 
 >    ♻️ **Reduce, Reuse, Recycle** 🌱 with modern technology 💚
-
 > 
 > Explore the project on [GitHub](https://github.com/dmalawey/OpenJar)
 
@@ -36,13 +36,13 @@ We believe in making open hardware as accessible and collaborative as open-sourc
 - [OpenLab](https://bit.ly/openlabproject)
 
 
-Explore other open-source initiatives by DM & SCUTTLE team:  
+**SCUTTLE team Nigeria:**
 - [SCUTTLE Nigeria](https://bit.ly/scuttleNigeria1)  
 - [Mechatronics Resources](https://bit.ly/openmechatronics)  
----
 
 
- **For Makers:**
+
+ #**For Makers:**
 1. **Standardized** – Works with standard mason jars.  
 2. **Functional** – **Watertight** or **Airtight** with post-processing.  
 3. **Efficient** – Prints **support-free** on basic desktop 3D printers.
