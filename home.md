@@ -1,7 +1,7 @@
 
-##Open-Source Hardware Design
+## Open-Source Hardware Design
 
->    ♻️ **Reduce, Reuse, Recycle** 🌱 with modern technology 💚
+>    ♻️ **Reduce, Reuse, Recycle** 🌱
 > 
 > Explore the project on [GitHub](https://github.com/dmalawey/OpenJar)
 
@@ -21,10 +21,10 @@ We believe in making open hardware as accessible and collaborative as open-sourc
 
 
 
+---
 
 
-
-##  **More Open Projects** 🌟
+## **More Open Projects** 🌟
 
 
 - [OpenArm](https://bit.ly/openarm)  
@@ -41,17 +41,18 @@ We believe in making open hardware as accessible and collaborative as open-sourc
 - [Mechatronics Resources](https://bit.ly/openmechatronics)  
 
 
+---
 
-**For Makers:**
+## **For Makers:**
 1. **Standardized** – Works with standard mason jars.  
 2. **Functional** – **Watertight** or **Airtight** with post-processing.  
 3. **Efficient** – Prints **support-free** on basic desktop 3D printers.
 
-**For Users:**
+## **For Users:**
 1. **Food-Safe** – Use ABS plastic for food applications.  
 2. **Dishwasher-Safe** – Durable when made with ABS.
 
-**For Designers:**
+## **For Designers:**
 1. **Versatile** – Includes free STL files, SOLIDWORKS models, and STEP files.  
 2. **Customizable** – Fully **parametric** designs.
 
