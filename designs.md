@@ -14,11 +14,11 @@ Explore OpenJar's 3D CAD models, repositories, and resources for makers, designe
 
 ---
 
-## **Cap Design** 🧢  
+## **Bottle Cap Design**
 
-This **Cap Design** is optimized for bottles and incorporates essential features for robust usability.  
+This **Bottle Cap Design** is optimized for bottles and incorporates essential features for robust usability.  
 
-![Cap Design](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/1148c8c902ae0bd4ff8536bd32c8df54/original.jpg "Cap Design Image" ':class=image-50 center')  
+![cap design image](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/1148c8c902ae0bd4ff8536bd32c8df54/original.jpg)
 
 > **Key Features of the Bottle Cap:**  
 > - Threads for secure attachment.  

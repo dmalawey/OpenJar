@@ -40,11 +40,6 @@ We believe in making open hardware as accessible and collaborative as open-sourc
 - [SCUTTLE Nigeria](https://bit.ly/scuttleNigeria1)  
 - [Mechatronics Resources](https://bit.ly/openmechatronics)  
 
-(&nbsp;)
-(&nbsp;)
-(&nbsp;)
-(&nbsp;)
-(&nbsp;)
 
 
 **For Makers:**
