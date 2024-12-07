@@ -1,125 +1,154 @@
 # OpenJar: An Open-Source Hardware Design
 
-> Reduce, Reuse, and Recylce using modern technology.
+> **Reduce, Reuse, Recycle** with modern technology  
 > 
-> github.com/dmalawey/OpenJar
+> Explore the project on [GitHub](https://github.com/dmalawey/OpenJar)
 
-![Design render](img/rend_jarsArray.jpg ':class=image-25')
+**Our Mission** 🛠️  
+We believe in making open hardware as accessible and collaborative as open-source software. Our mission is to:  
+- Encourage **sustainability** by repurposing common items like mason jars.  
+- Offer **parametric designs** for ultimate flexibility and customization.  
+- Build a robust **open-source ecosystem** where contributions are simple and impactful.  
 
-_Figure 1. Rendering of the first Mason Jar Lids successfully printed._
 
-## More Open Projects
-More Open Source designs initiated by DM & SCUTTLE team:
-* [SCUTTLE Nigeria](https://bit.ly/scuttleNigeria1)
-* [Mechatronics Resources](https://bit.ly/openmechatronics)
-* [OpenArm](https://bit.ly/openarm)
-* [OpenJar](https://bit.ly/openjarproject_v1)
-* [OpenBox](https://bit.ly/openboxproject)
-* [OpenSpin](https:/bit.ly/openspinproject)
-* [OpenAir](https://bit.ly/openairproject)
-* [OpenLab](https://bit.ly/openlabproject)
-
----
-# Features
----
-
-> For Makers:
-
-1. Uses standard, cheap mason jars.
-
-2. **Watertight** using a rubber seal, or **Airtight** by postprocessing.
-
-3. **Support-free** printing, and works with cheap desktop 3D printers.
-
-> For Users:
-
-1. **Food-safe** results if you use ABS plastic.
-
-2. **Dishwasher-safe** if you use ABS plastic.
-
-> For Designers:
-
-1. **3D Printable** and **parametric** designs.
-
-2. Free STL files for printing, SOLIDWORKS for design, and STEP for importing to other softwares.
+## 🌟 **Discover More Open Projects**
+Explore other open-source initiatives by DM & SCUTTLE team:  
+- [SCUTTLE Nigeria](https://bit.ly/scuttleNigeria1)  
+- [Mechatronics Resources](https://bit.ly/openmechatronics)  
+- [OpenArm](https://bit.ly/openarm)  
+- [OpenJar](https://bit.ly/openjarproject_v1)  
+[![OpenJar](img/OpenJar.png)](https://bit.ly/openjarproject_v1)
+- [OpenBox](https://bit.ly/openboxproject)  
+- [OpenSpin](https://bit.ly/openspinproject)  
+- [OpenAir](https://bit.ly/openairproject)  
+- [OpenLab](https://bit.ly/openlabproject)
 
 ---
-# Design Tutorials
----
-
-```
-These tutorials are related to the OpenJar project.
-```
-1. Learn to [Edit Parametric Parts in Solidworks](https://grabcad.com/tutorials/how-to-edit-parametric-parts-solidworks)
-2. Learn [Design for 3D Printing - Part 1](https://youtu.be/HYnm2MD0Nks) for engineers, Youtube
-3. Learn [Design for 3D Printing - Part 2](https://youtu.be/LMyhFwJscI0) using fasteners, Youtube
-
----
-# Details
----
-
-```
-This project focuses on improving open-source hardware!
-```
-
-There are many 3D printable options online, but this project emphasizes open-source hardware.  I hope open hardware becomes like open source software: users can make modifications easily and contribute easily.
-
-Therefore, we should make parametric models and finer documentation.  If documentation successfully explains the model and assembly, then we gain all of the benefits of open software. Lastly, we must make our designs fully digital. If I don't offer the CAD model of the store-bought jar, then contributors must reworkd the assembly ► this breaks the open-source ecosystem. Let's empower hardware designers! 
-
-Cheers to hardware developers reaching a new paradigm. ☺
-
-```
-| Modularity | Parametric models | Documentation | Digital Designs | 
-```
-
-## Adapter Threads <br>
 
 
->Adapter threads have two pieces: adapter lid and the thread component.  Three options for threads are pre-made (with STL files).  Using two parts gives us no-support printing and modularity.  Easily bond the parts with superglue.
+ **For Makers:**
+1. **Standardized** – Works with standard mason jars.  
+2. **Functional** – **Watertight** or **Airtight** with post-processing.  
+3. **Efficient** – Prints **support-free** on basic desktop 3D printers.
 
+**For Users:**
+1. **Food-Safe** – Use ABS plastic for food applications.  
+2. **Dishwasher-Safe** – Durable when made with ABS.
 
-The first adapter thread is for a common spray bottle such as windex.  Use the **lid_adapt.stl** and **thread_spray.stl**
-
-![windex spray assembly](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/5d5ee6d4e2c91ff5ddf7f72ecf03dda1/large.jpg ':class=image-25')
-
-_Figure - spray bottle assembly_
-
-The next thread is the foamy (my favorite).  It uses a larger adapter and a larger thread. Use **Lid_foamy.stl** and **thread_foamy.stl** and this is suited for one of the foaming soap pumps from dollar tree.
-
-![foamy dispenser](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/0e301b40c55337cb42571cf4b019824a/large.jpg ':class=image-25')
-
-_Figure - foamy dispenser_
-
-Then, an ordinary pump dispenser.  This pump came from a Head & Shoulders or Equate large shampoo bottle.  You can find metered dispensers of this style at your local farming store, intended for dosing supplements into the soil.
-
-![pump dispenser](img/img_pumpJar.jpg ':class=image-25')
-
-_Figure - pump jar_
-
-
-## Rubber Seal <br>
-
-You can store foods if you use a rubber seal. (actually, it's silicone)  I used [this one from Amazon](https://www.amazon.com/gp/product/B07TY28LZV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-![silicone gasket](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/4ef7b5d7b7dfd6a7d94dbe8c128466e2/large.jpg)
-
-_Figure - silicone gasket_
-
-## Jar Sizes
-
-
-Any brand of jar will work, but the mouth size should be standard.
-
-![jar sizes](img/img_jarSizes.jpg ':class=image-25')
-
-_Figure of Jar sizes 1/2 cup and 2 cup_
-
-
-## Spray Nozzle
-
-
-The spray nozzle setup is a two-part design.  To get the dip tube at the bottom of your jar, thread on the first piece and then cut the remaining length to 130mm.
-
-![dip tube length](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/1789e0103e3ff3923c5b252176b52948/original.jpg)
-_Figure - sprayer assembly and dip tube_
+**For Designers:**
+1. **Versatile** – Includes free STL files, SOLIDWORKS models, and STEP files.  
+2. **Customizable** – Fully **parametric** designs.
 
 ---
+
+## 📘 **Tutorials for Designers**
+Expand your skills with these design resources:  
+1. [Edit Parametric Parts in SolidWorks](https://grabcad.com/tutorials/how-to-edit-parametric-parts-solidworks)  
+2. [Design for 3D Printing – Part 1](https://youtu.be/HYnm2MD0Nks)  
+3. [Design for 3D Printing – Part 2](https://youtu.be/LMyhFwJscI0)
+
+---
+
+## **Why OpenJar?** 💡
+
+This project aims to transform open-source hardware by focusing on:  
+- **Parametric models** for flexibility.  
+- **Comprehensive documentation** for better collaboration.  
+- Fully **digital designs** to empower contributions.  
+
+> Let's empower hardware designers to collaborate as seamlessly as software developers. Cheers to a new paradigm of open-source hardware! 🎉
+
+---
+ **Adapter Threads** 🔧  
+The adapter thread system allows modularity and easy printing without supports. Each adapter consists of two parts: the **lid adapter** and the **thread component**.
+
+ **Spray Bottle Adapter**  
+Uses `lid_adapt.stl` and `thread_spray.stl`.  
+![Spray bottle assembly](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/5d5ee6d4e2c91ff5ddf7f72ecf03dda1/large.jpg ':class=image-50 center')  
+**_Figure:_** Spray bottle assembly.
+
+ **Foamy Dispenser Adapter**  
+Uses `Lid_foamy.stl` and `thread_foamy.stl`.  
+![Foamy dispenser](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/0e301b40c55337cb42571cf4b019824a/large.jpg ':class=image-50 center')  
+**_Figure:_** Foamy soap dispenser.
+
+ **Pump Dispenser Adapter**  
+Great for shampoos or supplements.  
+![Pump dispenser](img/img_pumpJar.jpg ':class=image-50 center')  
+**_Figure:_** Pump jar assembly.
+
+---
+
+ **Rubber Seal for Food Storage** 🍴  
+For food storage, use a silicone rubber seal like [this one](https://www.amazon.com/gp/product/B07TY28LZV).  
+![Silicone gasket](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/4ef7b5d7b7dfd6a7d94dbe8c128466e2/large.jpg ':class=image-50 center')  
+**_Figure:_** Silicone gasket.
+
+---
+
+## **Jar Sizes** 🏺  
+Ensure the jar mouth matches standard dimensions.  
+![Jar sizes](img/img_jarSizes.jpg ':class=image-50 center')  
+**_Figure:_** Jar size options: 1/2 cup and 2 cup.
+
+---
+
+## **Spray Nozzle Setup**  
+This two-part design requires cutting the dip tube to 130mm.  
+![Dip tube length](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/1789e0103e3ff3923c5b252176b52948/original.jpg ':class=image-50 center')  
+**_Figure:_** Spray assembly with dip tube.
+
+
+
+
+
+---
+
+[← **Home**](home.md)  
+[**Gallery**](topic_gallery.md)  
+[**Designs**](designs.md)  
+
+---
+
+# **Tutorials** 📚  
+
+A collection of tutorials to enhance your skills and support your work with the **OpenJar** project.
+
+---
+
+![Tutorial Snapshot](https://d2t1xqejof9utc.cloudfront.net/pictures/files/245626/original.png?1683986640 ':class=image-50 center')  
+**_Figure:_** Snapshot of a tutorial for modifying a parametric part published on GrabCAD.
+
+---
+
+##**Tutorials** 🛠️  
+
+1. **[Edit Parametric Parts in SolidWorks](https://grabcad.com/tutorials/how-to-edit-parametric-parts-solidworks)**  
+   Learn to modify parametric parts with this detailed GrabCAD tutorial.
+
+2. **[Design for 3D Printing - Part 1](https://youtu.be/HYnm2MD0Nks)**  
+   Explore the fundamentals of designing parts optimized for 3D printing.
+
+3. **[Design for 3D Printing - Part 2](https://youtu.be/LMyhFwJscI0)**  
+   Dive deeper into advanced techniques, including the use of fasteners.
+
+
+
+
+## **Downloads** 🚀  
+OpenJar provides:  
+- **Free CAD Models**: STL, SOLIDWORKS, and STEP files for download.  
+- **Support-Free Designs**: Optimized for desktop 3D printers.  
+- **Comprehensive Documentation**: Tutorials and resources to help you create, customize, and contribute.  
+- **Collaboration Opportunities**: Join a growing community of designers and makers.  
+
+
+### **Join the Movement** 🖇️  
+Explore the designs, dive into tutorials, and connect with a community that’s reimagining what open-source hardware can achieve. Together, we can empower hardware designers and push the boundaries of what’s possible.  
+
+Welcome to **OpenJar** – where innovation meets sustainability.  
+
+--- 
+
+
+
