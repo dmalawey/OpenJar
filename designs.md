@@ -32,8 +32,18 @@ Unlike the Mason Jar cap, this bottle cap is tailored to bottle-specific applica
 
 ---
 
-## KAASI-LID (Work in Progress)
+## 24mm-LID
 
-*Additional details to be provided as development continues.*
+![24mm Lid Grip](img/24mm%20Lid%20Grip.jpg "24mm Lid Grip")
+
+**Description:**  
+This lid is engineered to securely fit over a standard 24 mm glass lid. The design features a series of evenly spaced grip surfaces around its perimeter, enhancing torque transfer and easing manual application and removal. The outer profile is contoured to improve ergonomics, while the inner cavity maintains a tolerance that ensures a consistent and reliable seal.
+
+Key Characteristics:  
+- **Nominal Fit Diameter:** 24 mm to match industry-standard glass lid dimensions.  
+- **Grip Geometry:** Repetitive patterned protrusions provide improved manual handling.  
+- **Material Compatibility:** Suitable for common plastics (e.g., ABS, PETG) or other materials that can accommodate minor dimensional adjustments.  
+- **Manufacturing Considerations:** Designed for additive manufacturing methods; can be easily adapted for injection molding or machined production processes if needed.
+
 
 ---
