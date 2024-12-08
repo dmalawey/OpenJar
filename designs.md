@@ -45,7 +45,7 @@ Key Characteristics:
 - **Material Compatibility:** Suitable for common plastics (e.g., ABS, PETG) or other materials that can accommodate minor dimensional adjustments.  
 - **Manufacturing Considerations:** Designed for additive manufacturing methods; can be easily adapted for injection molding or machined production processes if needed.
 
-[**Download 24mm Lid Grip STL File**](Files/24mm%20lid%20grip.stl)
+[**Download 24mm Lid Grip STL File**](https://grabcad.com/library/24-mm-lid-grip-1)
 
 
 
